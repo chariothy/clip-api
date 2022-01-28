@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pybeans>=1.7.0
+python-multipart
+redis
